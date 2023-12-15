@@ -71,7 +71,7 @@ def hello_world():
 
 ## Images
 
-![An image of a cute puppy](https://www.pexels.com/photo/black-and-white-maltese-puppy-1458916/)
+![An image of a cute puppy](https://ibb.co/BwMcKKn)
 
 
 ## Tables
