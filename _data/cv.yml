@@ -2,18 +2,18 @@
   type: map
   contents:
     - name: Full Name
-      value: Albert Einstein
+      value: Jeong Jun Ahn
     - name: Date of Birth
-      value: 14th March 1879
+      value: 15th May 2000
     - name: Languages
-      value: English, German
+      value: Korean (Native), English (Fluent), German (A1)
 
 - title: Education
   type: time_table
   contents:
-    - title: PhD
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1905
+    - title: B.Sc. in Computer Science
+      institution: Lancaster University Leipzig, Leipzig, Germany
+      year: 2026
       description:
         - Description 1.
         - Description 2.

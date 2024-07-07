@@ -1,18 +1,18 @@
 {
   "basics": {
-    "name": "Albert Einstein",
-    "label": "Scientist",
+    "name": "Jeong Jun Ahn",
+    "label": "Computer Science Student",
     "image": "",
-    "email": "albert@einstein.de",
-    "phone": "(912) 123-4567",
-    "url": "https://alshedivat.github.io/al-folio/",
-    "summary": "A German-born theoretical physicist, widely ranked among the greatest and most influential scientists of all time",
+    "email": "tyyyu1268@gmail.com",
+    "phone": "+82 10-5619-6634",
+    "url": "https://prosk-sudo.github.io/",
+    "summary": "Sophomore student majoring in Computer Science at Lancaster University Leipzig, with a strong interest in Artificial Intelligence and Machine Learning.",
     "location": {
-      "address": "2712 Broadway St",
-      "postalCode": "CA 94115",
-      "city": "San Francisco",
-      "countryCode": "US",
-      "region": "California"
+      "address": "Prager Str. 53",
+      "postalCode": "04317",
+      "city": "Leipzig",
+      "countryCode": "DE",
+      "region": "Saxony"
     },
     "profiles": [
       {
