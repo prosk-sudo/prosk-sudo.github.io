@@ -18,7 +18,7 @@ social: true # includes social icons at the bottom of the page
 
 Hey there! My name is Jeong Jun (Anton), I am a sophomore computer science student at `Lancaster University`.
 
-My main languages are `Python`, `C` and `C++`, and I have also covered a bit of `Java` and `MIPS Assembly`. 
+My primary programming languages are `Python`, `C` and `C++`, and I have a good understanding of `Java` and `MIPS Assembly`.
 
 If you have any further questions, please feel free to contact me via platforms provided at the bottom of this page!
 

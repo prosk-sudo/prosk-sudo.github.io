@@ -16,9 +16,19 @@
     },
     "profiles": [
       {
-        "network": "Twitter",
-        "username": "AlbertEinstein",
-        "url": "https://twitter.com/AlbertEinstein"
+        "network": "GitHub",
+        "username": "prosk-sudo",
+        "url": "https://github.com/prosk-sudo"
+      },
+      {
+        "network": "LinkedIn",
+        "username": "jeong-jun-ahn",
+        "url": "https://www.linkedin.com/in/jeong-jun-ahn/"
+      },
+      {
+        "network": "Instagram",
+        "username": "jeongjunahn",
+        "url": "https://www.instagram.com/jeongjunahn/"
       }
     ]
   },
@@ -47,15 +57,15 @@
   ],
   "education": [
     {
-      "institution": "University of Zurich, Zurich, Switzerland",
-      "location": "Zurich, Switzerland",
-      "url": "https://www.uzh.ch/",
-      "area": "Software Development",
-      "studyType": "PhD",
-      "startDate": "1905-01-01",
-      "endDate": "1905-01-01",
-      "score": "10",
-      "courses": ["Theory of Relativity"]
+      "institution": "Lancaster University Leipzig",
+      "location": "Leipzig, Germany",
+      "url": "https://www.lancaster.ac.uk",
+      "area": "Computer Science",
+      "studyType": "B.Sc.",
+      "startDate": "2023-10-09",
+      "endDate": "2026-06-27",
+      "score": "",
+      "courses": ["Software Development", "Fundamentals of Computer Science", "Digital Systems", "Professionalism in Practice", "Principles of Economics B", "German A1"]
     }
   ],
   "awards": [
@@ -69,48 +79,27 @@
   ],
   "certificates": [
     {
-      "name": "Machine Learning",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-location-dot"
+      "name": "Qiskit Fall Fest 2023",
+      "date": "2023-11-10",
+      "issuer": "IBM",
+      "url": "https://www.ibm.com/quantum",
+      "icon": ""
     },
     {
-      "name": "Quantum Computing",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-tag"
+      "name": "Learning Java 11",
+      "date": "2024-06-22",
+      "issuer": "LinkedIn",
+      "url": "https://www.linkedin.com/learning/learning-java-11",
+      "icon": ""
     },
     {
-      "name": "Quantum Information",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-envelope"
-    },
-    {
-      "name": "Quantum Cryptography",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-hashtag"
-    },
-    {
-      "name": "Quantum Communication",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-calendar"
-    },
-    {
-      "name": "Quantum Teleportation",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-clipboard-check"
+      "name": "Secure Coding in C",
+      "date": "2024-07-11",
+      "issuer": "LinkedIn",
+      "url": "https://www.linkedin.com/learning/secure-coding-in-c",
+      "icon": ""
     }
-  ],
+    ],
   "publications": [
     {
       "name": "Zur Elektrody/namik bewegter Körper",
